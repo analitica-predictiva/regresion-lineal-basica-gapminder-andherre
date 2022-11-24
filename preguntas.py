@@ -15,7 +15,7 @@ def pregunta_01():
     Complete el código presentado a continuación.
     """
     # Lea el archivo `gm_2008_region.csv` y asignelo al DataFrame `df`
-    df = ____
+    df = C:\Users\Herrera\Documents\GitHub\regresion-lineal-basica-gapminder-andherre
 
     # Asigne la columna "life" a `y` y la columna "fertility" a `X`
     y = ____[____].____
